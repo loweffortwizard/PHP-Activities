@@ -1,0 +1,30 @@
+[18-Apr-2016 10:04:48] PHP Parse error:  parse error, expecting `','' or `';'' in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet.php on line 79
+[18-Apr-2016 10:05:41] PHP Parse error:  parse error, expecting `','' or `';'' in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet.php on line 79
+[18-Apr-2016 10:05:44] PHP Parse error:  parse error, expecting `','' or `';'' in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet.php on line 79
+[18-Apr-2016 10:12:25] PHP Notice:  Undefined index: pet_id in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:12:27] PHP Notice:  Undefined index: pet_id in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:12:33] PHP Notice:  Undefined index: pet_id in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:20:34] PHP Parse error:  parse error, expecting `','' or `';'' in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 44
+[18-Apr-2016 10:20:44] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 50
+[18-Apr-2016 10:20:59] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:21:38] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:21:38] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:21:43] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:22:34] PHP Notice:  Undefined index: pet_id in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 31
+[18-Apr-2016 10:22:34] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 39
+[18-Apr-2016 10:22:55] PHP Notice:  Undefined index: pet_id in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 31
+[18-Apr-2016 10:22:55] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 39
+[18-Apr-2016 10:23:01] PHP Notice:  Undefined index: pet_id in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 31
+[18-Apr-2016 10:23:01] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 39
+[18-Apr-2016 10:23:17] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:23:18] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:24:11] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:24:12] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:24:13] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:24:35] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:24:36] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:24:54] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 52
+[18-Apr-2016 10:25:52] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 51
+[18-Apr-2016 10:26:14] PHP Notice:  Undefined index: pet_id in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 31
+[18-Apr-2016 10:26:14] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 39
+[20-Apr-2016 14:40:58] PHP Notice:  Undefined index: pet_id in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-delete-a-pet-record\delete-a-pet-script.php on line 31

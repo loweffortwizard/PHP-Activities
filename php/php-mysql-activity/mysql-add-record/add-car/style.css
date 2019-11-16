@@ -1,0 +1,35 @@
+body{
+		background-color: grey;
+		color: fff;
+	}
+form{
+	max-width: 450px;
+	height: 630px;
+    background: #FAFAFA;
+    padding: 30px;
+    margin: 50px auto;
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+    border: 6px solid #000;
+}
+p{
+	padding-left: 3%;
+}
+input[type=text] {
+	background-color: grey;
+	color: white;
+	box-sizing: border-box;
+	border: 2px solid black;
+	border-radius: 4px;
+}
+input[type=submit] {
+	box-shadow: inset 0px 1px 0px 0px #fff;
+    background-color: grey;
+    border: 1px solid #000;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    padding: 8px 18px;
+    text-decoration: none;
+    font: 12px Arial, Helvetica, sans-serif;
+}

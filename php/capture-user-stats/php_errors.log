@@ -1,0 +1,90 @@
+[22-Feb-2016 10:03:41] PHP Notice:  Undefined variable: screen_res in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 33
+[22-Feb-2016 10:03:41] PHP Notice:  Undefined variable: screen_res in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 39
+[22-Feb-2016 10:22:06] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 27
+[22-Feb-2016 10:22:06] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 27
+[22-Feb-2016 10:22:06] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 31
+[22-Feb-2016 10:22:06] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 31
+[22-Feb-2016 10:25:42] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 26
+[22-Feb-2016 10:25:42] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 26
+[22-Feb-2016 10:25:42] PHP Notice:  Undefined variable: chrome_rows_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 27
+[22-Feb-2016 10:25:42] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 29
+[22-Feb-2016 10:25:42] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 29
+[22-Feb-2016 10:26:10] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 26
+[22-Feb-2016 10:26:10] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 26
+[22-Feb-2016 10:26:10] PHP Notice:  Undefined variable: chrome_rows_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 27
+[22-Feb-2016 10:26:10] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 29
+[22-Feb-2016 10:26:10] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 29
+[22-Feb-2016 10:26:58] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 26
+[22-Feb-2016 10:26:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 26
+[22-Feb-2016 10:26:58] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 29
+[22-Feb-2016 10:26:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 29
+[22-Feb-2016 10:26:59] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 26
+[22-Feb-2016 10:26:59] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 26
+[22-Feb-2016 10:26:59] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 29
+[22-Feb-2016 10:26:59] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 29
+[22-Feb-2016 10:28:01] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 30
+[22-Feb-2016 10:28:01] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 30
+[22-Feb-2016 10:28:01] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 37
+[22-Feb-2016 10:28:01] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 37
+[22-Feb-2016 10:28:02] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 30
+[22-Feb-2016 10:28:02] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 30
+[22-Feb-2016 10:28:02] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 37
+[22-Feb-2016 10:28:02] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 37
+[22-Feb-2016 10:28:38] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 30
+[22-Feb-2016 10:28:38] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 30
+[22-Feb-2016 10:28:38] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 37
+[22-Feb-2016 10:28:38] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 37
+[22-Feb-2016 10:28:39] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 30
+[22-Feb-2016 10:28:39] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 30
+[22-Feb-2016 10:28:39] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 37
+[22-Feb-2016 10:28:39] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 37
+[22-Feb-2016 10:32:28] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 30
+[22-Feb-2016 10:32:28] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 30
+[22-Feb-2016 10:32:28] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 37
+[22-Feb-2016 10:32:28] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 37
+[23-Feb-2016 16:03:44] PHP Parse error:  parse error, expecting `','' or `';'' in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 18
+[23-Feb-2016 16:09:08] PHP Parse error:  parse error, expecting `','' or `';'' in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 32
+[23-Feb-2016 16:12:47] PHP Parse error:  parse error, expecting `','' or `';'' in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 36
+[24-Feb-2016 14:41:08] PHP Parse error:  parse error, expecting `','' or `';'' in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 71
+[07-Mar-2016 09:43:17] PHP Notice:  Undefined variable: screen_res in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 70
+[07-Mar-2016 09:43:17] PHP Notice:  Undefined variable: screen_res in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 86
+[07-Mar-2016 09:45:40] PHP Notice:  Undefined variable: screen_res in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 70
+[07-Mar-2016 09:45:40] PHP Notice:  Undefined variable: screen_res in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 86
+[07-Mar-2016 09:48:21] PHP Notice:  Undefined variable: screen_res in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 70
+[07-Mar-2016 09:48:21] PHP Notice:  Undefined variable: screen_res in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 86
+[07-Mar-2016 09:56:58] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:56:58] PHP Notice:  Undefined variable: oprea_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:58:15] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:58:57] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:58:57] PHP Notice:  Undefined variable: oprea_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:58:58] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:58:58] PHP Notice:  Undefined variable: oprea_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:59:51] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:59:51] PHP Notice:  Undefined variable: oprea_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:59:51] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:59:51] PHP Notice:  Undefined variable: oprea_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:59:52] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:59:52] PHP Notice:  Undefined variable: oprea_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 09:59:59] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 10:00:00] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 10:00:00] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 10:00:01] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 10:00:01] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 10:00:02] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 10:00:02] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 10:00:19] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 10:00:19] PHP Notice:  Undefined variable: oprea_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 10:01:56] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 71
+[07-Mar-2016 10:02:09] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 10:02:09] PHP Notice:  Undefined variable: oprea_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 10:02:50] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 43
+[07-Mar-2016 10:02:51] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 43
+[07-Mar-2016 10:03:09] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 43
+[07-Mar-2016 10:03:18] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 43
+[07-Mar-2016 10:03:19] PHP Parse error:  parse error in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 43
+[07-Mar-2016 10:03:26] PHP Notice:  Undefined variable: edge_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[07-Mar-2016 10:03:26] PHP Notice:  Undefined variable: oprea_rows in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\display_stats.php on line 68
+[21-Mar-2016 11:07:01] PHP Notice:  Undefined variable: screen_res in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 70
+[21-Mar-2016 11:07:01] PHP Notice:  Undefined variable: screen_res in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 86
+[06-May-2016 10:32:08] PHP Notice:  Undefined variable: screen_res in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 70
+[06-May-2016 10:32:08] PHP Notice:  Undefined variable: screen_res in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\capture-user-stats\capture-stats.php on line 86

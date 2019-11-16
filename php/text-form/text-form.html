@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Add Text</title>
+</head>
+<style>
+	body{
+	background-color: grey;
+	color: #000;
+	max-width: 450px;
+	height: 630px;
+    background: #FAFAFA;
+    padding: 30px;
+    margin: 50px auto;
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+    border: 6px solid #000;
+}
+</style>
+<body>
+	<form action="write-to-file.php" method="post">
+	<!-- delcaration of form with action to PHP -->
+	
+		<p> Upload file </p> <!-- title of form-->
+		<textarea name="text-to-write" rows="5" cols="30">Enter Text</textarea>
+		<!-- delcaration of textarea to allow user to write text -->
+		<BR/><!-- space -->
+		<input type="submit" name="submit" value="Add This Text"/>
+		<!-- submit the content -->
+	
+	</form><!-- end form -->
+</body>
+</html>

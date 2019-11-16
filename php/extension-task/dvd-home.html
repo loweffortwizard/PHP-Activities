@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form</title>
+<link rel="stylesheet" href="style.css" /> <!--css file local -->
+</head>
+<style>
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+    left: 100%;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+</style>
+<body>	
+	<form id="myForm">
+		<!-- link to php for form -->
+		<legend>---DVD Form Registration---</legend>
+			<!-- decloration for legend -->
+		<h1> DVD Form Registration. </h1>
+				<!-- decloration for h1 -->
+				
+		<div class="tooltip">Please <strong> click the BUTTON </strong> below, to fill out the form.
+		<p class="href"><a href="dvd-form.html"><span class="tooltiptext">Click the button.</span></a></p>
+				<!-- link to go to form -->	
+		</div>
+		
+		<input class="href2" type="button" value="Click Here" onclick="window.location.href='dvd-form.html'" />
+				<!-- link to go to form -->	
+		
+		<div class="tooltip">Please <strong> click the BUTTON </strong> above, to fill out the form.
+		<p class="href"><a href="dvd-form.html"><span class="tooltiptext">Click the button.</span></a></p>
+				<!-- link to go to form -->	
+		</div>
+</body>
+</html>

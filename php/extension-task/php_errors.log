@@ -1,0 +1,21 @@
+[29-Feb-2016 10:04:22] PHP Notice:  Undefined variable: dvd_rating in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\process-form.php on line 38
+[02-Mar-2016 15:47:39] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 48
+[02-Mar-2016 15:47:39] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 54
+[02-Mar-2016 15:48:57] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 48
+[02-Mar-2016 15:48:57] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 54
+[02-Mar-2016 15:48:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 48
+[02-Mar-2016 15:48:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 54
+[02-Mar-2016 15:48:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 48
+[02-Mar-2016 15:48:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 54
+[02-Mar-2016 15:48:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 48
+[02-Mar-2016 15:48:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 54
+[02-Mar-2016 15:48:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 48
+[02-Mar-2016 15:48:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 54
+[02-Mar-2016 15:48:59] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 48
+[02-Mar-2016 15:48:59] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 54
+[14-Mar-2016 09:46:56] PHP Notice:  Undefined index: dvdTitle in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\process-form.php on line 26
+[14-Mar-2016 09:46:56] PHP Notice:  Undefined index: age in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\process-form.php on line 28
+[14-Mar-2016 09:46:56] PHP Notice:  Undefined index: dvdDesctiption in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\process-form.php on line 30
+[14-Mar-2016 09:46:56] PHP Notice:  Undefined index: rating in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\process-form.php on line 32
+[14-Mar-2016 09:46:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 48
+[14-Mar-2016 09:46:58] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\extension-task\dvd-stats.php on line 54

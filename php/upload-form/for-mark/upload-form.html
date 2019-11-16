@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Upload</title>
+</head>
+<style>
+	body{
+	background-color: grey;
+	color: #000;
+	max-width: 450px;
+	height: 630px;
+    background: #FAFAFA;
+    padding: 30px;
+    margin: 50px auto;
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+    border: 6px solid #000;
+}
+</style>
+<body>
+	<form action="upload-script.php" enctype="multipart/form-data" method="post">
+	<!-- delcaration of form with action to PHP and allow any file to be uploaded -->
+	
+	<p> Upload file </p> <!-- title of form -->
+	<input type="hidden" name="MAX_FILE_SIZE" value="300000" />
+	<!-- declaration for input that has a max file size of 300000 bytes for a file -->
+	
+	<p><input type="file" name="the_file" /></p>
+	<!-- declaration for input that allow user to search for file -->
+	<p><input type="submit" name="submit" value="Upload This FIle"/></p>
+	<!-- submit the content -->
+	
+	</form> <!-- end form -->
+</body>
+</html>

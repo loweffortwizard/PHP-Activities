@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head> 
+	
+	<title>Login</title> 
+	<link rel="stylesheet" href="style.css">
+<style>
+	body{
+		background-color: grey;
+		color: fff;
+		width: 960px;
+		height: auto;
+		text-align: center;
+		border: 5px solid #000;
+		margin: 2px;
+	}
+	form{
+		background-color: #fff;
+		color: #000;
+		margin: 2px 2px;
+		padding: 2px 2px 100px 2px;
+		border: 5px solid #000;
+	}
+	label{
+		padding-left: 3%;
+	}
+	h1{
+		padding-left: 3%;
+	}
+	#submission{
+		margin-left: 3%;
+	}
+	input[type=text] {
+		background-color: grey;
+		color: white;
+		box-sizing: border-box;
+		border: 2px solid black;
+		border-radius: 4px;
+	}
+	input[type=submit] {
+		background-color: grey;
+		border: none;
+		color: white;
+		padding: 16px 32px;
+		text-decoration: none;
+		margin: 4px 2px;
+		cursor: pointer;
+		border: 2px solid black;
+		border-radius: 4px;
+	}
+</style>
+</head>
+
+<body>
+
+	<form action="login-script-improved-with-sessions.php" method="post">
+	<!-- link to php and creation of form -->
+		<p> Username: <input type="text" name="username" /> </p>
+		<p> Password: <input type="text" name="password" /> </p>
+		<!-- options for pets -->
+		<p> <input type="submit" value="Login" /> </p>
+		<!-- submission button -->
+	</form>
+
+</body>
+</html>

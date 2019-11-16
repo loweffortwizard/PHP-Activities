@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form</title>
+<link rel="stylesheet" href="style.css" /> <!--css file local -->
+
+</head>
+<body>	
+	<form id="myForm" action="process-form.php" method="post" autocomplete="on">
+		<!-- link to php for form -->
+	<legend>---Form Registration---</legend>
+		<!-- decloration for legend -->
+	<h3> Please enter the details below: </h3>
+			<!-- decloration for h3 -->
+	<div class="row1">	
+	<p><label><input type="text" name="firstName" 
+        size="20" maxlength="40" id="fName" placeholder="First name" class="align-split" /><label></p>
+			<!-- label for first name -->
+			
+	<p><label><input type="text" name="lastName" 
+    size="20" maxlength="40" id="lName" placeholder="Last name" class="align-split" /><label></p>
+			<!-- label for last name -->
+	</div> <!-- close row1 -->
+	
+	<div class="row2">	
+	<p><label><input type="text" name="age" size="20" 
+              maxlength="20" id="age" placeholder="Age" class="align-split" /><label></p>
+			<!-- label for age -->
+			
+	<p><label><input type="text" name="houseNumber" size="20" 
+              maxlength="20" id="hNum" placeholder="House Number" class="align-split" /><label></p>
+			<!-- label for house number -->
+	</div> <!--close row2 -->
+
+	<div class="row3">	
+	<p><label><input type="text" name="street" size="20" 
+              maxlength="40" id="street" placeholder="Street name" class="align-split"/><label></p>
+			<!-- label for street -->
+			
+	<p><label><input type="text" name="townCity" size="20" 
+              maxlength="40" id="townCity" placeholder="Town/City" class="align-split" /><label></p>
+			<!-- label for town/city -->
+	</div> <!-- close row3 -->
+	
+	<div class="row4">	
+	<p><label><input type="text" name="country" size="20" 
+              maxlength="40" id="count" placeholder="Country" class="align-split"/><label></p>
+			<!-- label for country -->
+			
+	<p><label><input type="text" name="postcode" size="20" 
+              maxlength="20" id="pC" placeholder="Postcode" class="align-split" /><label></p>
+			<!-- label for postcade -->
+	</div><!--close row4-->		
+	
+	<div class="row5">	
+	<input type="radio" name="gender" value="male" checked> Male<br>
+	<input type="radio" name="gender" value="female"> Female<br>
+	<input type="radio" name="gender" value="other"> Other  
+	
+	<div class="clearfloat"></div>
+	<p><input type="submit" value="Submit My Details" id="submission">
+			<!-- button for submiting data in the name and age -->
+	</div><!-- close for row5-->
+	
+	<div class="row6">	
+	<p> How good was this form, in your opinion. 1 being excellent and 5 being poor.  </p>
+		<p><select id="rating"></p>
+		  <option value="1">1</option>
+		  <option value="2">2</option>
+		  <option value="3">3</option>
+		  <option value="4">4</option>
+		  <option value="5">5</option>
+		</select>
+	</div> <!-- close for row6 -->
+
+   </form>
+   
+   <script src="data-validation.js"></script>
+</body>
+</html>

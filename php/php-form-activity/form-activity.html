@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form</title>
+<style>
+	body{
+		background-color: grey;
+		color: fff;
+		width: 960px;
+		height: auto;
+		text-align: center;
+		border: 5px solid #000;
+		margin: 2px;
+	}
+	form{
+		background-color: #fff;
+		color: #000;
+		margin: 2px 2px;
+		padding: 2px 2px 100px 2px;
+		border: 5px solid #000;
+	}
+	label{
+		padding-left: 3%;
+	}
+	h1{
+		padding-left: 3%;
+	}
+	#submission{
+		margin-left: 3%;
+	}
+	input[type=text] {
+		background-color: grey;
+		color: white;
+		box-sizing: border-box;
+		border: 2px solid black;
+		border-radius: 4px;
+	}
+	input[type=submit] {
+		background-color: grey;
+		border: none;
+		color: white;
+		padding: 16px 32px;
+		text-decoration: none;
+		margin: 4px 2px;
+		cursor: pointer;
+		border: 2px solid black;
+		border-radius: 4px;
+	}
+</style>
+<script src="data-validation.js"></script>
+</head>
+<body>	
+	<form action="process-form.php" method="post" autocomplete="on">
+		<!-- link to php for form -->
+		
+	<h1> Please enter the details below: </h1>
+			<!-- decloration for h1 -->
+			
+	<p><label>First Name: <input type="text" name="firstName" 
+        size="20" maxlength="40" id="fName" placeholder="First name" /><label></p>
+			<!-- label for first name -->
+			
+	<p><label>Last Name: <input type="text" name="lastName" 
+    size="20" maxlength="40" id="lName" placeholder="Last name" /><label></p>
+			<!-- label for last name -->
+			
+	<p><label>Age: <input type="text" name="age" size="2" 
+              maxlength="3" id="age" placeholder="Age"/><label></p>
+			<!-- label for age -->
+			
+	<p><label>House Number: <input type="text" name="houseNumber" size="13" 
+              maxlength="3" id="hNum" placeholder="House Number" /><label></p>
+			<!-- label for house number -->
+			
+	<p><label>Street: <input type="text" name="street" size="20" 
+              maxlength="40" id="street" placeholder="Street name" /><label></p>
+			<!-- label for street -->
+			
+	<p><label>Town/City: <input type="text" name="townCity" size="20" 
+              maxlength="40" id="townCity" placeholder="Town/City"/><label></p>
+			<!-- label for town/city -->
+			
+	<p><label>Country: <input type="text" name="country" size="20" 
+              maxlength="40" id="count" placeholder="Country"/><label></p>
+			<!-- label for country -->
+			
+	<p><label>Postcode: <input type="text" name="postcode" size="20" 
+              maxlength="12" id="pC" placeholder="Postcode"/><label></p>
+			<!-- label for postcade -->
+	<p><input type="submit" value="Submit My Details" id="submission">
+			<!-- button for submiting data in the name and age -->
+	
+	<p> How good was this form, in your opinion. </p>
+	<p> 1 being excellent and 5 being poor. </p>
+		<select id="rating">
+		  <option value="1">1</option>
+		  <option value="2">2</option>
+		  <option value="3">3</option>
+		  <option value="4">4</option>
+		  <option value="5">5</option>
+		</select>
+   </form>
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+[10-Feb-2016 15:06:18] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'username'@'localhost' (using password: YES) in D:\Inetpub\wwwroot\markjw\2NDITS1\marw_trowe\php-basic\php-mysql-activity\mysql-con\db-connect.php on line 15

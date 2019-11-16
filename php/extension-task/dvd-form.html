@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form</title>
+<link rel="stylesheet" href="style.css" /> <!--css file local -->
+</head>
+<style>
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+    left: 100%;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+</style>
+<body>	
+	<form id="myForm" action="process-form.php" method="post" autocomplete="on">
+		<!-- link to php for form -->
+		<legend>---DVD Form Registration---</legend>
+			<!-- decloration for legend -->
+		<h3> Please enter the details below: </h3>
+				<!-- decloration for h3 -->
+		
+			<!--
+			<div class="row1">	
+			<p><label><input type="text" name="dvdId" 
+				size="20" maxlength="40" id="dvdId" placeholder="Enter the DVD's ID." /><label></p>
+					<!-- label for first name -->
+					
+			<p><label><input type="text" name="dvdTitle" 
+			size="20" maxlength="40" id="dvdTitle" placeholder="Enter the DVD's title." /><label></p>
+					<!-- label for last name -->
+			</div> <!-- close row1 -->
+			
+			<div class="row2">	
+			<p><label><input type="text" name="age" size="20" 
+					  maxlength="20" id="age" placeholder="Enter the age rating." /><label></p>
+					<!-- label for age -->
+					
+			<textarea type="text" name="dvdDesctiption" rows="5" cols="60" 
+				id="dvdDesctiption" placeholder="Enter the description of the DVD." /></textarea>
+					<!-- label for house number -->
+			</div> <!--close row2 -->	
+			
+			<p> Rating of the film, out of 5
+			<br/>
+			1 being poor - 5 being fantastic. </p>
+			
+			<div class="row3">	
+			<input type="radio" name="rating" id="1" value="1"> 1 out of 5 <br>
+			<input type="radio" name="rating" id="2" value="2"> 2 out of 5 <br>
+			<input type="radio" name="rating" id="3" value="3" checked> 3 out of 5 <br>
+			<input type="radio" name="rating" id="4" value="4"> 4 out of 5 <br> 
+			<input type="radio" name="rating" id="5" value="5"> 5 out of 5 <br>
+			
+		<div class="clearfloat"></div>
+		<p><input type="submit" value="Submit My Details" id="submission"></p>
+				<!-- button for submiting data in the name and age -->
+		</div><!-- close for row5-->
+
+   </form>
+   
+   <script src="data-validation.js"></script>
+</body>
+</html>
